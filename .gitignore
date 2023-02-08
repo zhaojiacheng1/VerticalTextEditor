@@ -1,0 +1,13 @@
+# 忽略一些文件
+
+# 忽略所有emf文件
+*.emf
+
+# 忽略所有docx、pptx文件
+*.docx
+*.doc
+*.pptx
+*.ppt
+
+# 忽略文件夹
+.vscode/
